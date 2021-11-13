@@ -4,7 +4,14 @@
 
 This is a machine learning project done on a Kaggle Dataset: https://www.kaggle.com/arkapravasen/bank-loan-default
 
-In this project, we exploited data science techniques like **Exploratory Data Analysis**, statistical methods like **Point Biserial Correlation, Pearson Correlation and Cramer V's Correlation** and multiple machine learning techniques like **Logistic Regression, Random Forest Classifier and Gradient Boosting Tree Algorithms (XGBoost)** to achieve our data-driven solution.
+Data Science Techniques:
+1. Exploratory Data Analysis
+2. Point Biserial Correlation
+3. Pearson Correlation
+4. Cramer V's Correlation 
+5. Logistic Regression
+6. Random Forest Classifier
+7. Gradient Boosting Tree Algorithms (XGBoost)
 
 ## Objective of Project
 
