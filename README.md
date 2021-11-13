@@ -49,8 +49,8 @@ With this, we expect **an increase of $393,106,511.23 (or 8.03%) in interest inc
 
 # Team Contributors
 
-1. Lua Jun An
-2. Keith Tay Xiang Rui
+1. [Lua Jun An](https://github.com/luajunan)
+2. [Keith Tay Xiang Rui](https://github.com/keith-tay)
 3. Tu Zhehao
 4. Timothy Wong Hoey Pheen
 5. Ahmad As-Shodiqqul Amin
