@@ -1,10 +1,12 @@
 # Project: Predicting Loan Defaults in Bank
 
-## Objective of Project
+## Project Description
 
 This is a machine learning project done on a Kaggle Dataset: https://www.kaggle.com/arkapravasen/bank-loan-default
 
 In this project, we exploited data science techniques like **Exploratory Data Analysis**, statistical methods like **Point Biserial Correlation, Pearson Correlation and Cramer V's Correlation** and multiple machine learning techniques like **Logistic Regression, Random Forest Classifier and Gradient Boosting Tree Algorithms (XGBoost)** to achieve our data-driven solution.
+
+## Objective of Project
 
 1)	To reject the individuals who are at very high risks of defaulting
 
