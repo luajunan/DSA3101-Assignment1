@@ -7,7 +7,7 @@ This is a machine learning project done on a Kaggle Dataset: https://www.kaggle.
 Data Science Techniques:
 1. Exploratory Data Analysis
 2. Point Biserial Correlation
-3. Pearson Correlation
+3. Pearson's Correlation
 4. Cramer V's Correlation 
 5. Logistic Regression
 6. Random Forest Classifier
