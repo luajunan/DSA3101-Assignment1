@@ -36,14 +36,14 @@ After several iterations, our group decided to go with the `XGBoost` model which
 | Precision | 71.8%  |
 | Accuracy | 73.5%  |
 
-### Evaluation of Project
+### Evaluation of Strategies
 
-#### Greater approval rate by lowering loan amount given to clients
+#### 1. Greater approval rate by lowering loan amount given to clients
 
 With this, we can potentially lower losses **by $762,597,495.00 (or 18.23%).** This is because clients, albeit the lower loan amount granted, will still have to pay interest. As such, the bank still gains a semblance of revenue. This is favoured rather than completely losing potential income by rejecting the clients upfront.
 
 
-#### Providing better repayment process for younger adults
+#### 2. Providing better repayment process for younger adults
 
 With this, we expect **an increase of $393,106,511.23 (or 8.03%) in interest income gained** from customers below the age of 25.
 
