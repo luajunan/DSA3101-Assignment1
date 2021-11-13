@@ -54,7 +54,7 @@ With this, we expect **an increase of $393,106,511.23 (or 8.03%) in interest inc
 3. Tu Zhehao
 4. Timothy Wong Hoey Pheen
 5. [Ahmad As-Shodiqqul Amin](https://github.com/shodiqqul)
-6. Dione Lim Yee Sze
+6. [Dione Lim Yee Sze](https://github.com/DioneLim)
 7. Kellie Chin Shu Wen
 8. Ni Hui Ling
 
